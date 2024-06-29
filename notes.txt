@@ -1,0 +1,25 @@
+1.To create virtual enviroment:-
+pip install virtualenv
+
+2. To create env folder:-
+python -m venv env
+
+3. To activate Virtaulenv :-
+.\env\Scripts\activate
+
+4. To install flask 
+pip install flask
+
+SSR:- server side rendering (easy compare to CSR)
+CSR:- clinet side rendering ( hard compare to SSR) 
+
+** if you want to make frontend in react then you have to chose CSR
+
+
+  
+Your Homework :- HTML, CSS , FLASK BASIC(make sure ki maine jo btaya wo clear aur details me padh lo) , GET request and POST request
+
+flas documentation :- https://flask.palletsprojects.com/en/1.1.x/quickstart/
+
+
+
